@@ -1,0 +1,36 @@
+body{
+  color: aquamarine;
+  font-family: helvetica;
+  text-align: center;
+  background: grey;
+  max-width: 75%;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+}
+
+h1{
+  color: aquamarine;
+  text-align: center;
+}
+h2{
+  color: aquamarine;
+  text-align: center;
+  text-decoration: underline;
+}
+img{
+  align: center;
+  max-height: 400px;
+  max-width: 400px;
+
+}
+ul{
+  text-align: left;
+}
+li{
+  width: 50%;
+  margin-left: 30%;
+  text-align: left;
+
+p {
+    max-width: 500px;
+}
